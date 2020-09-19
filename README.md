@@ -7,6 +7,9 @@ To play the gaem visit [The Itch.io page](https://mranzy.itch.io/lover-is-a-day 
 ## Screenshot
 
 ![alt text](https://github.com/anzy03/Unity3d-Lover-is-a-Day/blob/master/Screenshots/Cover.jpg)
+
 ![alt text](https://github.com/anzy03/Unity3d-Lover-is-a-Day/blob/master/Screenshots/Capture.jpg)
+
 ![alt text](https://github.com/anzy03/Unity3d-Lover-is-a-Day/blob/master/Screenshots/Capture2.jpg)
+
 ![alt text](https://github.com/anzy03/Unity3d-Lover-is-a-Day/blob/master/Screenshots/Capture3.jpg)
