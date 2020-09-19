@@ -1,4 +1,4 @@
-# Unity3d-Lover-is-a-Day
+# Lover is a Day
 This game was made as a part of a Game Jam. The Theme of the Game Jam was Rewind. The game was created by a team of 2 people.
 
 Unity Version : 2019.3.10f1
