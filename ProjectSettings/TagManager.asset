@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - E_Peach
+  - Walls
+  - Bubble
+  - E_crow
+  - GM
+  - MoveableObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - NoKillEnemy
+  - IgnoreCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4191397173
+    locked: 0
+  - name: BackgroundEnvironment
+    uniqueID: 3659500251
+    locked: 0
+  - name: Player
+    uniqueID: 260913817
+    locked: 0
+  - name: Forground
+    uniqueID: 2220308661
+    locked: 0
