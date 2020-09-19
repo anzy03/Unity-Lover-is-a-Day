@@ -2,6 +2,7 @@
 This game was made as a part of a Game Jam. The Theme of the Game Jam was Rewind. The game was created by a team of 2 people.
 
 Unity Version : 2019.3.10f1
+
 To play the gaem visit [The Itch.io page](https://mranzy.itch.io/lover-is-a-day "Lover is a Day")
 
 ## Screenshot
